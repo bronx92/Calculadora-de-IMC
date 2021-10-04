@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMC Calc2</string>
+    <string name="hint_peso">Peso(0,0)</string>
+    <string name="hint_altura">Altura(0,00)</string>
+    <string name="text_textView">Calculadora de IMC</string>
+    <string name="text_button">Calcular</string>
+    <string name="imc_resultado">\"Seu IMC é: %.2f\"</string>
+</resources>
